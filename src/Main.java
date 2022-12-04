@@ -7,9 +7,7 @@ public class Main {
             System.out.println("Установите версию приложения для iOS по ссылке");
         } else if (clientOS == 0) {
             System.out.println("Установите версию приложения для Android по ссылке");
-        } else {
-            System.out.println("Система не поддерживается");
-        }
+               }
 
         //Задание 2
         System.out.println("Задание №2");

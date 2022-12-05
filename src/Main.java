@@ -10,7 +10,6 @@ public class Main {
         } else if (clientOS == android) {
             System.out.println("Установите версию приложения для Android по ссылке");
                }
-
         //Задание 2
         System.out.println("Задание №2");
         int years = 2018;
@@ -26,7 +25,6 @@ public class Main {
         } else if (clientOS1 == android1 && years < 2015) {
             System.out.println("Установите облегченную версию приложения для Android по ссылке");
         }
-
         //Задание 3
         System.out.println("Задание №3");
         int year = 2022;

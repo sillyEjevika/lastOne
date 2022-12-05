@@ -15,7 +15,7 @@ public class Main {
         int years = 2018;
         int iOs1 = 0;
         int android1 = 1;
-        int clientOS1 = 1;
+        int clientOS1 = 0;
         if (clientOS1 == iOs1 && years >= 2015) {
             System.out.println("Установите версию приложения для iOS по ссылке");
         } else if (clientOS1 == iOs1 && years < 2015) {

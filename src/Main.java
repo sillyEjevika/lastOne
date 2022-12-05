@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Задание №1");
         int iOs = 0;
         int android = 1;
-        int clientOS = 1;
+        int clientOS = 0;
         if (clientOS == iOs) {
             System.out.println("Установите версию приложения для iOS по ссылке");
         } else if (clientOS == android) {
@@ -12,7 +12,7 @@ public class Main {
                }
         //Задание 2
         System.out.println("Задание №2");
-        int years = 2013;
+        int years = 2018;
         int iOs1 = 0;
         int android1 = 1;
         int clientOS1 = 1;
